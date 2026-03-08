@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Floating Action Button",
+    "link": "/components/fab",
+    "tags": ["button", "action", "floating"]
+  },
+  {
+    "title": "Modal Dialog",
+    "link": "/components/modal",
+    "tags": ["dialog", "popup", "overlay"]
+  },
+  {
+    "title": "Tooltip",
+    "link": "/components/tooltip",
+    "tags": ["hint", "hover", "info"]
+  }
+]
